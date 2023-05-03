@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="myClass">
+      <UniqueIdentifier>{52216dbf-5517-4195-9be3-113b4d83cd31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{c3e368f2-87ba-4ab7-a452-daafd74b56c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="drawClass">
+      <UniqueIdentifier>{0bb325e7-8a49-4239-a908-4135be9d942e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="VOLUEM_GRAPH.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI_Manager_Class.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixClass.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL_Manager_Class.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="Window_Manager_Class.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="drawBase.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="draw_scratch.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap_Save_Class.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="bitmapLoaderClass.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="SVG_Loader_Class.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="annolab_logo.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="dotPattern.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="mainController.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="repulsive_force.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="stopWatch.h">
+      <Filter>myClass</Filter>
+    </ClInclude>
+    <ClInclude Include="swingBy.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+    <ClInclude Include="koko.h">
+      <Filter>drawClass</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VOLUEM_GRAPH.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI_Manager_Class.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixClass.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGL_Manager_Class.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="Window_Manager_Class.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="drawBase.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="draw_scratch.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap_Save_Class.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="bitmapLoaderClass.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="SVG_Loader_Class.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="annolab_logo.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="dotPattern.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="mainController.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="repulsive_force.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="stopWatch.cpp">
+      <Filter>myClass</Filter>
+    </ClCompile>
+    <ClCompile Include="swingBy.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+    <ClCompile Include="koko.cpp">
+      <Filter>drawClass</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VOLUEM_GRAPH.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+    <Image Include="VOLUEM_GRAPH.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="final_VS.txt">
+      <Filter>shader</Filter>
+    </Text>
+    <Text Include="final_FS.txt">
+      <Filter>shader</Filter>
+    </Text>
+    <Text Include="NORMAL_VS.txt">
+      <Filter>shader</Filter>
+    </Text>
+    <Text Include="NORMAL_FS.txt">
+      <Filter>shader</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="logo.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="R1.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="R2.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="R3.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="R4.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="R5.svg">
+      <Filter>リソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+</Project>

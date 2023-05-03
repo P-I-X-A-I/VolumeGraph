@@ -1,0 +1,237 @@
+﻿  annolab_logo.cpp
+  bitmapLoaderClass.cpp
+  Bitmap_Save_Class.cpp
+  dotPattern.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(34,27): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(35,24): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(39,24): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(40,21): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(87,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\dotPattern.cpp(88,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  drawBase.cpp
+  draw_scratch.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(9,33): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(10,33): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(16,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(17,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(62,30): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(63,30): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(131,37): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\draw_scratch.cpp(132,37): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  GUI_Manager_Class.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(87,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(135,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(183,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(253,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(274,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(287,10): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(319,1): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(353,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(360,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(412,12): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(418,15): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\GUI_Manager_Class.cpp(440,12): warning C4312: '型キャスト': 'int' からより大きいサイズの 'HMENU' へ変換します。
+  koko.cpp
+  mainController.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\mainController.cpp(15,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\mainController.cpp(284,21): warning C4244: '=': 'UINT_PTR' から 'UINT' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\mainController.cpp(332,2): warning C4102: 'drfault': ラベルは 1 度も参照されません。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\mainController.cpp(347,10): warning C4244: '初期化中': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+  matrixClass.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(185,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(199,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(213,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(349,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(361,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(373,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(406,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(407,32): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(407,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(409,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(424,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(425,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\matrixClass.cpp(426,10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  OpenGL_Manager_Class.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\OpenGL_Manager_Class.cpp(275,24): warning C4244: '初期化中': 'std::streamoff' から 'unsigned long' への変換です。データが失われる可能性があります。
+  repulsive_force.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(11,39): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(12,39): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(16,28): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(17,41): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(21,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(22,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(26,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(27,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(29,22): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(59,39): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(60,39): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(64,30): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(65,39): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(69,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(70,34): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(74,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(75,38): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(183,27): warning C4305: '-=': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(187,27): warning C4305: '+=': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(223,52): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\repulsive_force.cpp(224,52): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+  stopWatch.cpp
+  SVG_Loader_Class.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(32,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(33,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(41,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(262,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(263,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(267,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(268,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(271,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(272,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(278,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(279,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(282,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(283,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(403,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(404,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(407,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(408,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(416,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(417,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(420,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(421,49): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(424,49): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(425,49): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(428,49): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(429,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(432,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(433,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(525,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(526,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(529,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(530,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(639,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(640,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(643,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(644,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(717,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(718,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(721,30): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(722,30): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(734,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(735,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(738,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(739,28): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(941,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(942,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(945,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(946,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(953,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(954,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(958,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(959,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1013,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1014,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1017,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1018,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1025,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1026,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1030,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1031,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1084,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1085,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1088,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1089,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1095,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1096,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1099,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1100,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1143,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1144,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1147,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1148,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1154,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1155,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1158,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1159,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1207,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1208,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1211,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1212,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1219,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1220,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1224,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1225,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1263,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1264,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1267,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1268,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1274,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1275,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1278,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1279,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1321,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1322,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1325,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1326,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1332,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1333,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1336,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1337,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1373,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1374,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1377,36): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1378,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1384,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1385,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1388,35): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1389,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1413,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1414,33): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1417,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1418,32): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1494,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1495,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1506,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1507,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1583,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1584,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1594,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1595,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1670,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1671,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1681,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1682,55): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1758,56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1759,56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1769,56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1770,56): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1832,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1833,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1842,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1843,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1903,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1904,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1913,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1914,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1983,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1984,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1993,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(1994,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(2063,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(2064,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(2073,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\SVG_Loader_Class.cpp(2074,42): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  swingBy.cpp
+  VOLUEM_GRAPH.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH.cpp(116,11): warning C4477: 'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'time_t' です
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH.cpp(116,11): message : 書式文字列に '%lld' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH.cpp(116,11): message : 書式文字列に '%Id' を使用することをお勧めします
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH.cpp(116,11): message : 書式文字列に '%I64d' を使用することをお勧めします
+  Window_Manager_Class.cpp
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\Window_Manager_Class.cpp(483,16): warning C4244: '引数': 'LRESULT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\Window_Manager_Class.cpp(450,3): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\VOLUEM_GRAPH\Window_Manager_Class.cpp(400,7): warning C4101: 'winRect': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 240 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  VOLUEM_GRAPH.vcxproj -> C:\Users\wtnbk\Desktop\あげていいやつ\201201-VOLUMEGRAPH\VOLUEM_GRAPH\x64\Release\VOLUEM_GRAPH.exe
